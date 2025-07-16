@@ -1,8 +1,8 @@
-# Privacy Policy E-Wallet App
+# Privacy Policy Pixel-Wallet App
 
 **Effective Date:** April 22, 2025
 
-This Privacy Policy describes how we collect, use, and disclose information when you use our E-Wallet mobile application.
+This Privacy Policy describes how we collect, use, and disclose information when you use our Pixel-Wallet mobile application.
 
 ## 1. Information We Collect
 
@@ -53,4 +53,4 @@ If you have any questions about this Privacy Policy, please contact us at: [must
 
 ---
 
-© 2025 E-Wallet. All rights reserved.
+© 2025 Pixel-Wallet. All rights reserved.
